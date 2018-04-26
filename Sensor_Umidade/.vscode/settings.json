@@ -1,0 +1,10 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/imerljak/.platformio/penv/bin:/home/imerljak/.platformio/penv:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/imerljak/Software/forge-distribution-3.8.1.Final/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "files.associations": {
+        "ethernet.h": "c",
+        "ethernetclient.h": "c"
+    }
+}
